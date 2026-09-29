@@ -1,0 +1,129 @@
+{
+  "format": "command-nexus-weekly-report",
+  "schemaVersion": 1,
+  "courseId": "CIT140",
+  "week": 2,
+  "assignmentId": "CIT140-W02-BUSINESS-CASE",
+  "artifactType": "business-case-recommendation",
+  "caseId": "meridian-forge",
+  "reportId": "2675913d-0a44-4b3c-a6a8-194ca41358a4",
+  "revision": 7661,
+  "createdAt": "2026-09-26T20:02:26.448Z",
+  "exportedAt": "2026-09-29T06:36:04.567Z",
+  "learnerLabel": "QA Control Review Business Case Recommendation",
+  "contentStatus": "complete-fields",
+  "sections": [
+    {
+      "id": "project",
+      "title": "Proposed project",
+      "value": "Develop a traceable record that QA and Engineering can use to investigate the MR-17 and QA cell incident further. This record should provide Operations with a basis that can justify their requests for later work. The investigation should not exceed $3,000 worth of internal staff time over ten days, else the budget must be reviewed by the sponsor. [Mara Ilyan P.O. Manager, Operations Call] W"
+    },
+    {
+      "id": "need",
+      "title": "Business need",
+      "value": "Develop a traceable record that QA and Engineering can use to investigate the MR-17 and QA cell incident further. This record should provide Operations with a basis that can justify their requests for later work. -W02-S01"
+    },
+    {
+      "id": "value",
+      "title": "Expected value and beneficiaries",
+      "value": "The current value is information that will give QA and Engineering a traceable record they can use to investigate further, and give Operations a defensible basis for requesting later work. [W02-S-01] There is no current measurement for production value.\n\n"
+    },
+    {
+      "id": "scopeIn",
+      "title": "Included work",
+      "value": "\nDeliverables as outlined in W02-S03:\n- 1 command-ownership record\n- 1 scheduling/retirement control inventory\n- 1 evidence preservation checklist\nThese deliverables will ensure that we concretely identify where there are currently unknown owners or missing evidence.\n\nThe deliverables will be achieved as follows:\nQA requests a record; the relevant custodian locates it; QA and Engineering check its origin and meaning; Operations receives a summary. \n\n"
+    },
+    {
+      "id": "scopeOut",
+      "title": "Excluded work",
+      "value": "The QA Control Review will exclude any decisions regarding the operation or replacement of the MR-17 unit, modifications to current software or records, and any operations beyond the cell referenced in the affected QA cell incendent. [W02-S03]\n\n"
+    },
+    {
+      "id": "technical",
+      "title": "Technical feasibility",
+      "value": "The tools are readily available but the requested read-only records have not been approved for access yet. [W02-S04]"
+    },
+    {
+      "id": "operational",
+      "title": "Operational feasibility",
+      "value": "QA must be available at the start to request the record.. The relevant custodian must be available to locate the requested records. Both QA and Engineering must be available to check the record's origin and meaning after receiving it from the custodian. Operations must be available at the end of the process to receive the summary."
+    },
+    {
+      "id": "resources",
+      "title": "Cost and resource feasibility",
+      "value": "Per the estimates listed in W02-S05 - not including equipment purchases, software licenses or overtime -the base estimate is $180 below the $3,000 envelope; the upper estimate is $525 above it. "
+    },
+    {
+      "id": "schedule",
+      "title": "Schedule feasibility",
+      "value": "The 8-day business plan as introduced in W02-S04 could grant 2 days of headroom with respect to the 10-day limit. The 8-day plan is dependent on the arrival of exported records no later than day 3 and on the QA shifts remaining under their current schedule."
+    },
+    {
+      "id": "constraints",
+      "title": "Known constraints",
+      "value": "The review must be done within eight business days. [W02-S04]\n\nThe available staff hours as provisioned in W02-S04:\n- The Analyst is available for 24 total hours across the 8 days\n- Engineering is available for 12 total hours starting from day 4 onward\n- QA is available 8 total hours within days 5-7\n- Operations is available for 4 total hours across days 1 and 8\n\n\n\n"
+    },
+    {
+      "id": "risks",
+      "title": "Risks and assumptions",
+      "value": "The capacity to remain within the time constraints of the proposed project primarily hinges on the timely delivery of the requested record exports no later than by day three. There is no current confirmation of a delivery date for the exports [W02-S04]\n\nQA must be available to review the records with Engineering. While the current availabilities allow for both to overlap between days 5-7, a shift reassignment could interrupt the available overlap between the departments."
+    },
+    {
+      "id": "success",
+      "title": "Success measures and evidence",
+      "value": "The success of the QA Control Review will produce three deliverables:\n1. A command-ownership record \n2. A scheduling/retirement control inventory for tests\n3. An evidence-preservation checklist\nNia (QA) and Elias (Engineering) will have reviewed the source references and summarized them for Operations to make further work decisions. [W02-S05] \n\nNia reported that the first assessment of records produced 2/6 successful custodian identification and source links from a retrieval effort worth 60 minutes of staff minutes. [W02-S02]\n\nThe value of this review can be compared to the baseline assessment in terms of the relationship between staff minutes invested and successful custodian identification/original source link. It would be further useful to convert the staff minutes into money values as staffing cost, so that the percentage of useful findings will reveal the actual monetary value of the investigation.\n\n"
+    },
+    {
+      "id": "recommendation",
+      "title": "Recommendation",
+      "value": "revise"
+    },
+    {
+      "id": "rationale",
+      "title": "Rationale and conditions",
+      "value": "I recommend that before proceeding with this QA Control Review, we first confirm the availability and staffing costs of the custodians.\n\nPer W02-S03, custodians are the critical bridge between the record request and the source review. At this time, we are assuming that the exported documents will be delivered by day 3 of the review, but we do not yet have a confirmation on custodian availability in the W02-S04 schedule. Their availability will affect export delivery times.\n\nFurthermore, custodians also form part of the internal staff and will need to be compensated for their time, but are not currently accounted for in the base estimates listed in W02-S05. As the estimate currently stands, there are only $180 of internal staff time available before $3,000 planning envelope is reached. If the cost of custodians exceeds what is available, the sponsor must review the numbers first."
+    },
+    {
+      "id": "nextStep",
+      "title": "Next authorization or information step",
+      "value": "Mara, the Operations Manager, must confirm the aforementioned details with the custodian department."
+    }
+  ],
+  "sources": [
+    {
+      "id": "W02-S01",
+      "title": "Request for a bounded review",
+      "locator": "Week 2 decision packet · W02-S01"
+    },
+    {
+      "id": "W02-S02",
+      "title": "Evidence-retrieval workload",
+      "locator": "Week 2 decision packet · W02-S02"
+    },
+    {
+      "id": "W02-S03",
+      "title": "Proposed scope and current workflow",
+      "locator": "Week 2 decision packet · W02-S03"
+    },
+    {
+      "id": "W02-S04",
+      "title": "Capacity, access and operating limits",
+      "locator": "Week 2 decision packet · W02-S04"
+    },
+    {
+      "id": "W02-S05",
+      "title": "Estimate and success-measure sheet",
+      "locator": "Week 2 decision packet · W02-S05"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "repository-check",
+      "filename": "Week02_Repository_Check.png",
+      "kind": "supporting-evidence",
+      "caption": "Required Week 2 repository screenshot; supply the actual file separately. This reference does not verify an upload.",
+      "sourceIds": []
+    }
+  ],
+  "relatedReportIds": []
+}
