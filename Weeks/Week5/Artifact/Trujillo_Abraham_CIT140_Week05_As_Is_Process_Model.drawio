@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="2">
   <diagram name="Current Process" id="0NDaXA3Le9n2VkTq-oXe">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="710" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -98,7 +98,7 @@
         <mxCell id="VCStcjP-jdR44jiDYZ03-9" parent="clinical" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#edf5f2;strokeColor=#5a7c7d;" value="Retain &lt;i&gt;Held&lt;/i&gt; Status and Review Capacity" vertex="1">
           <mxGeometry height="30" width="130" x="475" y="15" as="geometry" />
         </mxCell>
-        <mxCell id="VCStcjP-jdR44jiDYZ03-10" parent="clinical" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#edf5f2;strokeColor=#5a7c7d;" value="Return Request to Scheduling when another slot must be arranged" vertex="1">
+        <mxCell id="VCStcjP-jdR44jiDYZ03-10" parent="clinical" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#edf5f2;strokeColor=#5a7c7d;" value="Return Request to Scheduling if another slot must be arranged" vertex="1">
           <mxGeometry height="45" width="170" x="830" y="7.5" as="geometry" />
         </mxCell>
         <mxCell id="VCStcjP-jdR44jiDYZ03-11" parent="clinical" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#edf5f2;strokeColor=#5a7c7d;" value="Confirm and record&amp;nbsp;&lt;b&gt;Clinical Readiness&lt;/b&gt; (&lt;i&gt;Ready&lt;/i&gt;)" vertex="1">
@@ -260,20 +260,20 @@
         <mxCell id="title" parent="1" style="text;html=1;fontSize=24;fontStyle=1;fontColor=#183c43;align=left;" value="Week 5 | Scope and Findings" vertex="1">
           <mxGeometry height="40" width="1070" x="45" y="25" as="geometry" />
         </mxCell>
-        <mxCell id="scope" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=12;fontSize=15;fillColor=#edf5f2;strokeColor=#5a7c7d;" value="&lt;b&gt;1 · Process scope&lt;/b&gt;&lt;br&gt;[Your name. Process purpose, start, end, included roles, and what falls outside your diagram.]" vertex="1">
-          <mxGeometry height="110" width="1070" x="45" y="90" as="geometry" />
+        <mxCell id="scope" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=12;fontSize=15;fillColor=#edf5f2;strokeColor=#5a7c7d;" value="&lt;b&gt;1 · Process scope&lt;/b&gt;&lt;br&gt;Abraham Trujillo&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;The process covered in this diagrams falls within the scope of visitor appointment procedures starting with booking through Scheduling, coordinating availability with Clinical Operations. being guided through Intake, and ending in the fulfillment of the visitors appointment services.&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="1070" x="45" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="walkthrough" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=12;fontSize=15;fillColor=#fff7ee;strokeColor=#95694b;" value="&lt;b&gt;2 · Check the two paths&lt;/b&gt;&lt;br&gt;[Trace an ordinary appointment and the incident appointment through your numbered steps. Explain the gap supported by W05-S04. State what the trace cannot prove.]" vertex="1">
+        <mxCell id="walkthrough" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=12;fontSize=15;fillColor=#fff7ee;strokeColor=#95694b;" value="&lt;b&gt;2 · Check the two paths&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Based on the flow of the diagram resulting from the described steps in the Week 5 sources, a normal appointment has a time slot marked&amp;nbsp;&lt;i&gt;held&lt;/i&gt;&amp;nbsp;in confirmation that Scheduling has verified and confirmed all booking information with the visitor; a clinical readiness decision is also expected in a &lt;b&gt;separate&lt;/b&gt;&amp;nbsp;record from Clinical Operations for intake to check by the time the visitor arrives [W5-S01].&amp;nbsp;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;In the incident appointment, Intake did not have a record indicating the clinical readiness decision at the time of the visitor&#39;s arrival [W5-S04]. While the records trace reveals this gap, it does not explain why the information is missing, nor does it assert that the decision was not made.&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="140" width="1070" x="45" y="215" as="geometry" />
         </mxCell>
-        <mxCell id="sources" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=12;fontSize=15;fillColor=#edf5f2;strokeColor=#5a7c7d;" value="&lt;b&gt;3 · Evidence and model review&lt;/b&gt;&lt;br&gt;[List source IDs beside the steps they support. Describe any correction you made after checking the model against the records. List remaining uncertainty and the person or record needed to resolve it. Do not invent stakeholder approval.]" vertex="1">
+        <mxCell id="sources" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=12;fontSize=15;fillColor=#edf5f2;strokeColor=#5a7c7d;" value="&lt;b&gt;3 · Evidence and model review&lt;/b&gt;&lt;br&gt;At this time, it remains uncertain whether clinical operations are ready with both a room and a clinician that can tend to the visitor during the requested time slot. Clinical Operations must share their readiness decision so that next steps can be established for the visitor." vertex="1">
           <mxGeometry height="140" width="1070" x="45" y="370" as="geometry" />
         </mxCell>
-        <mxCell id="reflection" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=12;fontSize=15;fillColor=#fff7ee;strokeColor=#95694b;" value="&lt;b&gt;4 · Learning reflection (reuse your Discord paragraph)&lt;/b&gt;&lt;br&gt;[In 3–5 sentences: what became clearer; where responsibility or information is unclear and its evidence; how process modeling differs from Week 4 requirements.]" vertex="1">
-          <mxGeometry height="140" width="1070" x="45" y="525" as="geometry" />
+        <mxCell id="reflection" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=12;fontSize=15;fillColor=#fff7ee;strokeColor=#95694b;" value="&lt;b&gt;4 · Learning reflection (reuse your Discord paragraph)&lt;/b&gt;&lt;br&gt;[In 3–5 sentences: what became clearer; where responsibility or information is unclear and its evidence; how process modeling differs from Week 4 requirements.]&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The Week 5 diagram clarified which decisions and actions fall under each role. Week 4&#39;s requirements listed what information was needed for decisions across each department, but this week&#39;s modeling process traced the flow of &lt;i&gt;how&lt;/i&gt; and &lt;i&gt;when&lt;/i&gt; the information reaches each department. At this time, it is unclear &lt;i&gt;how&lt;/i&gt;&amp;nbsp;and &lt;i&gt;when &lt;/i&gt;Scheduling and Clinical Operations hand-off their information to Intake. It is assumed that the handoff happens by the time the visitor arrives, but - as the sources currently present - there are is no current sequential flow that indicates how the &lt;i&gt;output&lt;/i&gt;&amp;nbsp;of the department decisions reach the destination departments.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="195" width="1070" x="45" y="525" as="geometry" />
         </mxCell>
         <mxCell id="evidence" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=12;fontSize=14;fillColor=#edf5f2;strokeColor=#5a7c7d;" value="&lt;b&gt;5 · Portfolio evidence&lt;/b&gt;&lt;br&gt;[Editable model filename and Week05/Evidence/Week05_Discord_Post.png or .jpg. If Discord is unavailable, identify the equivalent reflection used here.]&lt;br&gt;Save the .drawio file; export both pages as one PDF; check readability; commit and push." vertex="1">
-          <mxGeometry height="105" width="1070" x="45" y="680" as="geometry" />
+          <mxGeometry height="105" width="1070" x="45" y="740" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
